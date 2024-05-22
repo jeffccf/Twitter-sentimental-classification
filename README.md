@@ -5,6 +5,8 @@ This repository provides four different methods using scikit-learn to classify t
 # Setup
 Python 3.x
 
+Torch
+
 sklearn
 
 pandas
